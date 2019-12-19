@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.hrm.qa.extentreports.extentreportNG"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.hrm.qa.TestCases.HomePageTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.hrm.qa.TestCases.HomePageTest -->
+      <class name="com.hrm.qa.TestCases.LoginPageTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.hrm.qa.TestCases.LoginPageTest -->
+      <class name="com.hrm.qa.TestCases.PIMpageTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="createnewempTest" invocation-numbers="0 2 3"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.hrm.qa.TestCases.PIMpageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

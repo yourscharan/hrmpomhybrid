@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.hrm.qa.extentreports.extentreportNG"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.hrm.qa.TestCases.PIMpageTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="selectMultiEmpIDSTest"/>
+          <include name="selectemployeebyIDTest"/>
+          <include name="setup"/>
+          <include name="verifyPIMpageLabelTest"/>
+        </methods>
+      </class> <!-- com.hrm.qa.TestCases.PIMpageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

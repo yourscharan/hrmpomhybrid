@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="155475" started-at="2019-12-19T12:34:11Z" finished-at="2019-12-19T12:36:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="155475" started-at="2019-12-19T12:34:11Z" finished-at="2019-12-19T12:36:47Z">
+      <class name="com.hrm.qa.TestCases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@39c0f4a]" name="setup" is-config="true" duration-ms="7729" started-at="2019-12-19T18:04:11Z" finished-at="2019-12-19T18:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginpageTitleTest()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@39c0f4a]" name="loginpageTitleTest" duration-ms="25" started-at="2019-12-19T18:04:19Z" finished-at="2019-12-19T18:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@39c0f4a]" name="teardown" is-config="true" duration-ms="642" started-at="2019-12-19T18:04:19Z" finished-at="2019-12-19T18:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@39c0f4a]" name="setup" is-config="true" duration-ms="5400" started-at="2019-12-19T18:04:20Z" finished-at="2019-12-19T18:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="hrmlogoTest()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@39c0f4a]" name="hrmlogoTest" duration-ms="278" started-at="2019-12-19T18:04:25Z" finished-at="2019-12-19T18:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hrmlogoTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@39c0f4a]" name="teardown" is-config="true" duration-ms="923" started-at="2019-12-19T18:04:25Z" finished-at="2019-12-19T18:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@39c0f4a]" name="setup" is-config="true" duration-ms="6364" started-at="2019-12-19T18:04:26Z" finished-at="2019-12-19T18:04:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@39c0f4a]" name="loginTest" duration-ms="5262" started-at="2019-12-19T18:04:33Z" finished-at="2019-12-19T18:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@39c0f4a]" name="teardown" is-config="true" duration-ms="1081" started-at="2019-12-19T18:04:38Z" finished-at="2019-12-19T18:04:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.hrm.qa.TestCases.LoginPageTest -->
+      <class name="com.hrm.qa.TestCases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@1794d431]" name="setup" is-config="true" duration-ms="9718" started-at="2019-12-19T18:04:39Z" finished-at="2019-12-19T18:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@1794d431]" name="verifyHomePageTitleTest" duration-ms="25" started-at="2019-12-19T18:04:49Z" finished-at="2019-12-19T18:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@1794d431]" name="teardown" is-config="true" duration-ms="689" started-at="2019-12-19T18:04:49Z" finished-at="2019-12-19T18:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@1794d431]" name="setup" is-config="true" duration-ms="11332" started-at="2019-12-19T18:04:49Z" finished-at="2019-12-19T18:05:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyUsernameTest()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@1794d431]" name="verifyUsernameTest" duration-ms="109" started-at="2019-12-19T18:05:01Z" finished-at="2019-12-19T18:05:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsernameTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@1794d431]" name="teardown" is-config="true" duration-ms="1061" started-at="2019-12-19T18:05:01Z" finished-at="2019-12-19T18:05:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@1794d431]" name="setup" is-config="true" duration-ms="10523" started-at="2019-12-19T18:05:02Z" finished-at="2019-12-19T18:05:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLeavelinkTest()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@1794d431]" name="verifyLeavelinkTest" duration-ms="1974" started-at="2019-12-19T18:05:13Z" finished-at="2019-12-19T18:05:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLeavelinkTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@1794d431]" name="teardown" is-config="true" duration-ms="828" started-at="2019-12-19T18:05:15Z" finished-at="2019-12-19T18:05:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.hrm.qa.TestCases.HomePageTest -->
+      <class name="com.hrm.qa.TestCases.PIMpageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="setup" is-config="true" duration-ms="8645" started-at="2019-12-19T18:05:15Z" finished-at="2019-12-19T18:05:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyPIMpageLabelTest()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="verifyPIMpageLabelTest" duration-ms="184" started-at="2019-12-19T18:05:24Z" finished-at="2019-12-19T18:05:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPIMpageLabelTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="teardown" is-config="true" duration-ms="608" started-at="2019-12-19T18:05:24Z" finished-at="2019-12-19T18:05:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="setup" is-config="true" duration-ms="9498" started-at="2019-12-19T18:05:25Z" finished-at="2019-12-19T18:05:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selectemployeebyIDTest()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="selectemployeebyIDTest" duration-ms="2246" started-at="2019-12-19T18:05:34Z" finished-at="2019-12-19T18:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectemployeebyIDTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="teardown" is-config="true" duration-ms="716" started-at="2019-12-19T18:05:37Z" finished-at="2019-12-19T18:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="setup" is-config="true" duration-ms="8749" started-at="2019-12-19T18:05:37Z" finished-at="2019-12-19T18:05:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selectMultiEmpIDSTest()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="selectMultiEmpIDSTest" duration-ms="2644" started-at="2019-12-19T18:05:46Z" finished-at="2019-12-19T18:05:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMultiEmpIDSTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="teardown" is-config="true" duration-ms="630" started-at="2019-12-19T18:05:49Z" finished-at="2019-12-19T18:05:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="setup" is-config="true" duration-ms="8796" started-at="2019-12-19T18:05:50Z" finished-at="2019-12-19T18:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createnewempTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="createnewempTest" duration-ms="3343" started-at="2019-12-19T18:05:59Z" data-provider="getHrmTestdata" finished-at="2019-12-19T18:06:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nagendra]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Perikili]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Royal]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[chinna]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewempTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="teardown" is-config="true" duration-ms="1142" started-at="2019-12-19T18:06:02Z" finished-at="2019-12-19T18:06:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="setup" is-config="true" duration-ms="9454" started-at="2019-12-19T18:06:03Z" finished-at="2019-12-19T18:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createnewempTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="createnewempTest" duration-ms="3144" started-at="2019-12-19T18:06:13Z" data-provider="getHrmTestdata" finished-at="2019-12-19T18:06:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Uma]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mahesh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sai]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewempTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="teardown" is-config="true" duration-ms="660" started-at="2019-12-19T18:06:16Z" finished-at="2019-12-19T18:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="setup" is-config="true" duration-ms="10982" started-at="2019-12-19T18:06:16Z" finished-at="2019-12-19T18:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createnewempTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="createnewempTest" duration-ms="3061" started-at="2019-12-19T18:06:27Z" data-provider="getHrmTestdata" finished-at="2019-12-19T18:06:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kartik]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sai]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[royal]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[charan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewempTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="teardown" is-config="true" duration-ms="1134" started-at="2019-12-19T18:06:31Z" finished-at="2019-12-19T18:06:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="setup" is-config="true" duration-ms="11424" started-at="2019-12-19T18:06:32Z" finished-at="2019-12-19T18:06:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createnewempTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="createnewempTest" duration-ms="3071" started-at="2019-12-19T18:06:43Z" data-provider="getHrmTestdata" finished-at="2019-12-19T18:06:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[charan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[royal]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[uma]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mahi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewempTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@42d80b78]" name="teardown" is-config="true" duration-ms="645" started-at="2019-12-19T18:06:46Z" finished-at="2019-12-19T18:06:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.hrm.qa.TestCases.PIMpageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

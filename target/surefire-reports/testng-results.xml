@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="3" total="13" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="303520" started-at="2019-12-19T13:08:40Z" finished-at="2019-12-19T13:13:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="303520" started-at="2019-12-19T13:08:40Z" finished-at="2019-12-19T13:13:44Z">
+      <class name="com.hrm.qa.TestCases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@13969fbe]" name="setup" is-config="true" duration-ms="31871" started-at="2019-12-19T18:38:40Z" finished-at="2019-12-19T18:39:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginpageTitleTest()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@13969fbe]" name="loginpageTitleTest" duration-ms="36" started-at="2019-12-19T18:39:12Z" finished-at="2019-12-19T18:39:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@13969fbe]" name="teardown" is-config="true" duration-ms="641" started-at="2019-12-19T18:39:12Z" finished-at="2019-12-19T18:39:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@13969fbe]" name="setup" is-config="true" duration-ms="12112" started-at="2019-12-19T18:39:13Z" finished-at="2019-12-19T18:39:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="hrmlogoTest()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@13969fbe]" name="hrmlogoTest" duration-ms="605" started-at="2019-12-19T18:39:25Z" finished-at="2019-12-19T18:39:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hrmlogoTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@13969fbe]" name="teardown" is-config="true" duration-ms="589" started-at="2019-12-19T18:39:25Z" finished-at="2019-12-19T18:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@13969fbe]" name="setup" is-config="true" duration-ms="9900" started-at="2019-12-19T18:39:26Z" finished-at="2019-12-19T18:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@13969fbe]" name="loginTest" duration-ms="4630" started-at="2019-12-19T18:39:36Z" finished-at="2019-12-19T18:39:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.LoginPageTest@13969fbe]" name="teardown" is-config="true" duration-ms="993" started-at="2019-12-19T18:39:41Z" finished-at="2019-12-19T18:39:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.hrm.qa.TestCases.LoginPageTest -->
+      <class name="com.hrm.qa.TestCases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@506e6d5e]" name="setup" is-config="true" duration-ms="31683" started-at="2019-12-19T18:39:41Z" finished-at="2019-12-19T18:40:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@506e6d5e]" name="verifyHomePageTitleTest" duration-ms="130" started-at="2019-12-19T18:40:13Z" finished-at="2019-12-19T18:40:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@506e6d5e]" name="teardown" is-config="true" duration-ms="1589" started-at="2019-12-19T18:40:13Z" finished-at="2019-12-19T18:40:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@506e6d5e]" name="setup" is-config="true" duration-ms="26353" started-at="2019-12-19T18:40:15Z" finished-at="2019-12-19T18:40:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyUsernameTest()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@506e6d5e]" name="verifyUsernameTest" duration-ms="62" started-at="2019-12-19T18:40:41Z" finished-at="2019-12-19T18:40:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsernameTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@506e6d5e]" name="teardown" is-config="true" duration-ms="1081" started-at="2019-12-19T18:40:41Z" finished-at="2019-12-19T18:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@506e6d5e]" name="setup" is-config="true" duration-ms="17371" started-at="2019-12-19T18:40:42Z" finished-at="2019-12-19T18:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLeavelinkTest()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@506e6d5e]" name="verifyLeavelinkTest" duration-ms="2997" started-at="2019-12-19T18:41:00Z" finished-at="2019-12-19T18:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLeavelinkTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.HomePageTest@506e6d5e]" name="teardown" is-config="true" duration-ms="741" started-at="2019-12-19T18:41:03Z" finished-at="2019-12-19T18:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.hrm.qa.TestCases.HomePageTest -->
+      <class name="com.hrm.qa.TestCases.PIMpageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="setup" is-config="true" duration-ms="14765" started-at="2019-12-19T18:41:04Z" finished-at="2019-12-19T18:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyPIMpageLabelTest()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="verifyPIMpageLabelTest" duration-ms="163" started-at="2019-12-19T18:41:18Z" finished-at="2019-12-19T18:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPIMpageLabelTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="teardown" is-config="true" duration-ms="608" started-at="2019-12-19T18:41:18Z" finished-at="2019-12-19T18:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="setup" is-config="true" duration-ms="21416" started-at="2019-12-19T18:41:19Z" finished-at="2019-12-19T18:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selectemployeebyIDTest()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="selectemployeebyIDTest" duration-ms="2225" started-at="2019-12-19T18:41:40Z" finished-at="2019-12-19T18:41:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectemployeebyIDTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="teardown" is-config="true" duration-ms="695" started-at="2019-12-19T18:41:43Z" finished-at="2019-12-19T18:41:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="setup" is-config="true" duration-ms="20021" started-at="2019-12-19T18:41:43Z" finished-at="2019-12-19T18:42:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selectMultiEmpIDSTest()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="selectMultiEmpIDSTest" duration-ms="2540" started-at="2019-12-19T18:42:03Z" finished-at="2019-12-19T18:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMultiEmpIDSTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="teardown" is-config="true" duration-ms="685" started-at="2019-12-19T18:42:06Z" finished-at="2019-12-19T18:42:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="setup" is-config="true" duration-ms="17478" started-at="2019-12-19T18:42:09Z" finished-at="2019-12-19T18:42:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="createnewempTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="createnewempTest" duration-ms="6826" started-at="2019-12-19T18:42:26Z" data-provider="getHrmTestdata" finished-at="2019-12-19T18:42:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nagendra]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Perikili]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Royal]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[chinna]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: element is not attached to the page document
+  (Session info: chrome=79.0.3945.79)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHINNA', ip: '192.168.0.142', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10730}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 43322b822cfa476c5d196aff40a7947c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=79.0.3945.79)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHINNA', ip: '192.168.0.142', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10730}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 43322b822cfa476c5d196aff40a7947c
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
+	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.sendKeys(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.sendKeys(EventFiringWebDriver.java:429)
+	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy10.sendKeys(Unknown Source)
+	at com.hrm.qa.pages.PimPage.createNewEmp(PimPage.java:64)
+	at com.hrm.qa.TestCases.PIMpageTest.createnewempTest(PIMpageTest.java:89)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewempTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="teardown" is-config="true" duration-ms="653" started-at="2019-12-19T18:42:33Z" finished-at="2019-12-19T18:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="setup" is-config="true" duration-ms="20155" started-at="2019-12-19T18:42:34Z" finished-at="2019-12-19T18:42:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createnewempTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="createnewempTest" duration-ms="2954" started-at="2019-12-19T18:42:54Z" data-provider="getHrmTestdata" finished-at="2019-12-19T18:42:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Uma]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mahesh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sai]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewempTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="teardown" is-config="true" duration-ms="1103" started-at="2019-12-19T18:42:57Z" finished-at="2019-12-19T18:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="setup" is-config="true" duration-ms="14184" started-at="2019-12-19T18:42:58Z" finished-at="2019-12-19T18:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="createnewempTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="createnewempTest" duration-ms="3854" started-at="2019-12-19T18:43:12Z" data-provider="getHrmTestdata" finished-at="2019-12-19T18:43:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kartik]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sai]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[royal]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[charan]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <input type="button" class="savebutton" id="btnEdit" onclick="addEmpMain(); return false;" onmouseover="moverButton(this);" onmouseout="moutButton(this);" value="Save" title="Save"> is not clickable at point (269, 206). Other element would receive the click: <div class="mask" id="wait_mask" style="height: 305px; width: 940px; display: block;">...</div>
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHINNA', ip: '192.168.0.142', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10807}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 70cfe6ec75be00a5bd3530f78080a2e6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="button" class="savebutton" id="btnEdit" onclick="addEmpMain(); return false;" onmouseover="moverButton(this);" onmouseout="moutButton(this);" value="Save" title="Save"> is not clickable at point (269, 206). Other element would receive the click: <div class="mask" id="wait_mask" style="height: 305px; width: 940px; display: block;">...</div>
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHINNA', ip: '192.168.0.142', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10807}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 70cfe6ec75be00a5bd3530f78080a2e6
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy10.click(Unknown Source)
+	at com.hrm.qa.pages.PimPage.createNewEmp(PimPage.java:68)
+	at com.hrm.qa.TestCases.PIMpageTest.createnewempTest(PIMpageTest.java:89)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewempTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="teardown" is-config="true" duration-ms="1355" started-at="2019-12-19T18:43:16Z" finished-at="2019-12-19T18:43:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="setup" is-config="true" duration-ms="20314" started-at="2019-12-19T18:43:17Z" finished-at="2019-12-19T18:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="createnewempTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="createnewempTest" duration-ms="4508" started-at="2019-12-19T18:43:38Z" data-provider="getHrmTestdata" finished-at="2019-12-19T18:43:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[charan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[royal]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[uma]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mahi]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <input type="button" class="savebutton" id="btnEdit" onclick="addEmpMain(); return false;" onmouseover="moverButton(this);" onmouseout="moutButton(this);" value="Save" title="Save"> is not clickable at point (269, 206). Other element would receive the click: <div class="mask" id="wait_mask" style="height: 305px; width: 940px; display: block;">...</div>
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHINNA', ip: '192.168.0.142', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10841}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4e90edac86a0689a5613c992ef3b02fd]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="button" class="savebutton" id="btnEdit" onclick="addEmpMain(); return false;" onmouseover="moverButton(this);" onmouseout="moutButton(this);" value="Save" title="Save"> is not clickable at point (269, 206). Other element would receive the click: <div class="mask" id="wait_mask" style="height: 305px; width: 940px; display: block;">...</div>
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHINNA', ip: '192.168.0.142', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10841}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4e90edac86a0689a5613c992ef3b02fd
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy10.click(Unknown Source)
+	at com.hrm.qa.pages.PimPage.createNewEmp(PimPage.java:68)
+	at com.hrm.qa.TestCases.PIMpageTest.createnewempTest(PIMpageTest.java:89)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewempTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hrm.qa.TestCases.PIMpageTest@6aaa5eb0]" name="teardown" is-config="true" duration-ms="1362" started-at="2019-12-19T18:43:42Z" finished-at="2019-12-19T18:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.hrm.qa.TestCases.PIMpageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

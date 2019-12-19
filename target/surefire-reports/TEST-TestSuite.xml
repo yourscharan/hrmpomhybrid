@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="20.214" tests="13" errors="0" skipped="0" failures="3">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="hrmpomhybrid"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\Nagendra\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="4de1278e3cacf73f"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_102\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_102\jre\classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\Nagendra\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_102-b14"/>
+    <property name="user.name" value="Nagendra"/>
+    <property name="LSERVRC" value="C:\ProgramData\HP\Functional testing\License\lservrc"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="hrmpomhybrid"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/hrmpomhybrid/1/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#1"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_102\jre\bin"/>
+    <property name="VS110COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\"/>
+    <property name="LOCALAPPDATA" value="C:\Users\Nagendra\AppData\Local"/>
+    <property name="java.version" value="1.8.0_102"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="USERNAME" value="Nagendra"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="PERL5LIB" value="D:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;D:\oracle\product\10.2.0\db_1\perl\5.8.3\lib;D:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;D:\oracle\product\10.2.0\db_1\perl\site\5.8.3;D:\oracle\product\10.2.0\db_1\perl\site\5.8.3\lib;D:\oracle\product\10.2.0\db_1\sysman\admin\scripts;C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib;C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;C:\oracle\product\10.2.0\db_1\perl\site\5.8.3;C:\oracle\product\10.2.0\db_1\perl\site\5.8.3\lib;C:\oracle\product\10.2.0\db_1\sysman\admin\scripts;C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib;C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;C:\oracle\product\10.2.0\db_1\perl\site\5.8.3;C:\oracle\product\10.2.0\db_1\perl\site\5.8.3\lib;C:\oracle\product\10.2.0\db_1\sysman\admin\scripts;"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_102\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="1"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="maven.conf" value="C:\Users\Nagendra\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Testmaven\conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_102\jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="6.1"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/hrmpomhybrid/1/display/redirect"/>
+    <property name="TMP" value="C:\Users\Nagendra\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.102-b14"/>
+    <property name="user.variant" value=""/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/hrmpomhybrid/display/redirect"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_102"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\Nagendra"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="COMPUTERNAME" value="CHINNA"/>
+    <property name="user.script" value=""/>
+    <property name="user.home" value="C:\Users\Nagendra"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-hrmpomhybrid-1"/>
+    <property name="JENKINS_SERVER_COOKIE" value="4de1278e3cacf73f"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\Nagendra"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_102\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Nagendra\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Testmaven/bin;C:\Program Files\Java\jdk1.8.0_102/bin;C:\Program Files\Java\jdk1.8.0_102/bin;C:\ProgramData\Oracle\Java\javapath;C:\Users\Nagendra\Downloads\Compressed\apache-maven-3.3.9-bin\bin;C:\Program Files\Java\jdk1.8.0_102\jre\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\Nagendra\AppData\Roaming"/>
+    <property name="path2" value="C:\Program Files\Java\jdk1.8.0_102\bin;"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Users\Nagendra\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Testmaven"/>
+    <property name="java.class.path" value="C:\Users\Nagendra\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Users\Nagendra\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Testmaven\boot\plexus-classworlds-2.6.0.jar;C:\Users\Nagendra\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Testmaven/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\Nagendra\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Testmaven C:\Users\Nagendra\.jenkins\war\WEB-INF\lib\remoting-3.36.jar C:\Users\Nagendra\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\Nagendra\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 10405"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_102/bin;C:\ProgramData\Oracle\Java\javapath;C:\Users\Nagendra\Downloads\Compressed\apache-maven-3.3.9-bin\bin;C:\Program Files\Java\jdk1.8.0_102\jre\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\"/>
+    <property name="VS120COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_102/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\Users\Nagendra\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Testmaven"/>
+    <property name="=D:" value="D:\QAplanet"/>
+    <property name="java.io.tmpdir" value="C:\Users\Nagendra\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Users\Nagendra\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Users\Nagendra\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Testmaven/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/hrmpomhybrid/1/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="D:\nagneon\HRMPOMHYBRID"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/hrmpomhybrid/"/>
+    <property name="LOGONSERVER" value="\\CHINNA"/>
+    <property name="USERDOMAIN" value="CHINNA"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="MAVEN_HOME" value="C:\Users\Nagendra\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Testmaven"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="1"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="PROCESSOR_REVISION" value="3a09"/>
+    <property name="jdk" value="C:\Program Files\Java\jdk-12.0.2\bin;"/>
+    <property name="PATHP" value="C:\Users\Nagendra\AppData\Local\Programs\Python\Python37-32"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\Nagendra\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE" value="C:\Users\Nagendra\.jenkins\workspace\hrmpomhybrid"/>
+    <property name="maven3.interceptor.common" value="C:\Users\Nagendra\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files (x86)\AutoIt3\AutoItX"/>
+  </properties>
+  <testcase name="loginpageTitleTest" classname="com.hrm.qa.TestCases.LoginPageTest" time="0.034"/>
+  <testcase name="hrmlogoTest" classname="com.hrm.qa.TestCases.LoginPageTest" time="0.595"/>
+  <testcase name="loginTest" classname="com.hrm.qa.TestCases.LoginPageTest" time="4.63"/>
+  <testcase name="verifyHomePageTitleTest" classname="com.hrm.qa.TestCases.HomePageTest" time="0.126"/>
+  <testcase name="verifyUsernameTest" classname="com.hrm.qa.TestCases.HomePageTest" time="0.059"/>
+  <testcase name="verifyLeavelinkTest" classname="com.hrm.qa.TestCases.HomePageTest" time="2.997"/>
+  <testcase name="verifyPIMpageLabelTest" classname="com.hrm.qa.TestCases.PIMpageTest" time="0.162"/>
+  <testcase name="selectemployeebyIDTest" classname="com.hrm.qa.TestCases.PIMpageTest" time="2.225"/>
+  <testcase name="selectMultiEmpIDSTest" classname="com.hrm.qa.TestCases.PIMpageTest" time="2.538"/>
+  <testcase name="createnewempTest" classname="com.hrm.qa.TestCases.PIMpageTest" time="6.848">
+    <failure message="stale element reference: element is not attached to the page document&#10;  (Session info: chrome=79.0.3945.79)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;CHINNA&apos;, ip: &apos;192.168.0.142&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_102&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10730}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#10;Session ID: 43322b822cfa476c5d196aff40a7947c" type="org.openqa.selenium.StaleElementReferenceException">org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=79.0.3945.79)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHINNA', ip: '192.168.0.142', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10730}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 43322b822cfa476c5d196aff40a7947c
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
+	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.sendKeys(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.sendKeys(EventFiringWebDriver.java:429)
+	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy10.sendKeys(Unknown Source)
+	at com.hrm.qa.pages.PimPage.createNewEmp(PimPage.java:64)
+	at com.hrm.qa.TestCases.PIMpageTest.createnewempTest(PIMpageTest.java:89)
+</failure>
+    <system-out><![CDATA[Trying to find Element By : By.name: txtUserName
+Found Element By : By.name: txtUserName
+Trying to find Element By : By.name: txtPassword
+Found Element By : By.name: txtPassword
+Trying to find Element By : By.name: Submit
+Found Element By : By.name: Submit
+Trying to click on: [[ChromeDriver: chrome on XP (43322b822cfa476c5d196aff40a7947c)] -> name: Submit]
+Clicked on: [[ChromeDriver: chrome on XP (43322b822cfa476c5d196aff40a7947c)] -> name: Submit]
+Trying to find Element By : By.linkText: PIM
+Found Element By : By.linkText: PIM
+Trying to find Element By : By.linkText: Add Employee
+Found Element By : By.linkText: Add Employee
+Trying to click on: [[ChromeDriver: chrome on XP (43322b822cfa476c5d196aff40a7947c)] -> link text: Add Employee]
+Clicked on: [[ChromeDriver: chrome on XP (43322b822cfa476c5d196aff40a7947c)] -> link text: Add Employee]
+Trying to find Element By : By.name: txtEmpLastName
+Found Element By : By.name: txtEmpLastName
+Exception occured: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=79.0.3945.79)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHINNA', ip: '192.168.0.142', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10730}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 43322b822cfa476c5d196aff40a7947c
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 78.0.3904.70 (edb9c9f3de0247fd912a77b7f6cae7447f6d3ad5-refs/branch-heads/3904@{#800}) on port 11542
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1576761131.353][WARNING]: This version of ChromeDriver has not been tested with Chrome version 79.
+Dec 19, 2019 6:42:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="createnewempTest" classname="com.hrm.qa.TestCases.PIMpageTest" time="2.954"/>
+  <testcase name="createnewempTest" classname="com.hrm.qa.TestCases.PIMpageTest" time="3.852">
+    <failure message="element click intercepted: Element &lt;input type=&quot;button&quot; class=&quot;savebutton&quot; id=&quot;btnEdit&quot; onclick=&quot;addEmpMain(); return false;&quot; onmouseover=&quot;moverButton(this);&quot; onmouseout=&quot;moutButton(this);&quot; value=&quot;Save&quot; title=&quot;Save&quot;&gt; is not clickable at point (269, 206). Other element would receive the click: &lt;div class=&quot;mask&quot; id=&quot;wait_mask&quot; style=&quot;height: 305px; width: 940px; display: block;&quot;&gt;...&lt;/div&gt;&#10;  (Session info: chrome=79.0.3945.79)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;CHINNA&apos;, ip: &apos;192.168.0.142&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_102&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10807}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#10;Session ID: 70cfe6ec75be00a5bd3530f78080a2e6" type="org.openqa.selenium.ElementClickInterceptedException"><![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="button" class="savebutton" id="btnEdit" onclick="addEmpMain(); return false;" onmouseover="moverButton(this);" onmouseout="moutButton(this);" value="Save" title="Save"> is not clickable at point (269, 206). Other element would receive the click: <div class="mask" id="wait_mask" style="height: 305px; width: 940px; display: block;">...</div>
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHINNA', ip: '192.168.0.142', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10807}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 70cfe6ec75be00a5bd3530f78080a2e6
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy10.click(Unknown Source)
+	at com.hrm.qa.pages.PimPage.createNewEmp(PimPage.java:68)
+	at com.hrm.qa.TestCases.PIMpageTest.createnewempTest(PIMpageTest.java:89)
+]]></failure>
+    <system-out><![CDATA[Trying to find Element By : By.name: txtUserName
+Found Element By : By.name: txtUserName
+Trying to find Element By : By.name: txtPassword
+Found Element By : By.name: txtPassword
+Trying to find Element By : By.name: Submit
+Found Element By : By.name: Submit
+Trying to click on: [[ChromeDriver: chrome on XP (70cfe6ec75be00a5bd3530f78080a2e6)] -> name: Submit]
+Clicked on: [[ChromeDriver: chrome on XP (70cfe6ec75be00a5bd3530f78080a2e6)] -> name: Submit]
+Trying to find Element By : By.linkText: PIM
+Found Element By : By.linkText: PIM
+Trying to find Element By : By.linkText: Add Employee
+Found Element By : By.linkText: Add Employee
+Trying to click on: [[ChromeDriver: chrome on XP (70cfe6ec75be00a5bd3530f78080a2e6)] -> link text: Add Employee]
+Clicked on: [[ChromeDriver: chrome on XP (70cfe6ec75be00a5bd3530f78080a2e6)] -> link text: Add Employee]
+Trying to find Element By : By.name: txtEmpLastName
+Found Element By : By.name: txtEmpLastName
+Trying to find Element By : By.name: txtEmpFirstName
+Found Element By : By.name: txtEmpFirstName
+Trying to find Element By : By.name: txtEmpMiddleName
+Found Element By : By.name: txtEmpMiddleName
+Trying to find Element By : By.name: txtEmpNickName
+Found Element By : By.name: txtEmpNickName
+Trying to find Element By : By.xpath: /html/body/form/div/div[1]/div[2]/div[2]/input[1]
+Found Element By : By.xpath: /html/body/form/div/div[1]/div[2]/div[2]/input[1]
+Trying to click on: [[ChromeDriver: chrome on XP (70cfe6ec75be00a5bd3530f78080a2e6)] -> xpath: /html/body/form/div/div[1]/div[2]/div[2]/input[1]]
+Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="button" class="savebutton" id="btnEdit" onclick="addEmpMain(); return false;" onmouseover="moverButton(this);" onmouseout="moutButton(this);" value="Save" title="Save"> is not clickable at point (269, 206). Other element would receive the click: <div class="mask" id="wait_mask" style="height: 305px; width: 940px; display: block;">...</div>
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHINNA', ip: '192.168.0.142', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10807}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 70cfe6ec75be00a5bd3530f78080a2e6
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 78.0.3904.70 (edb9c9f3de0247fd912a77b7f6cae7447f6d3ad5-refs/branch-heads/3904@{#800}) on port 5371
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1576761180.026][WARNING]: This version of ChromeDriver has not been tested with Chrome version 79.
+Dec 19, 2019 6:43:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="createnewempTest" classname="com.hrm.qa.TestCases.PIMpageTest" time="4.511">
+    <failure message="element click intercepted: Element &lt;input type=&quot;button&quot; class=&quot;savebutton&quot; id=&quot;btnEdit&quot; onclick=&quot;addEmpMain(); return false;&quot; onmouseover=&quot;moverButton(this);&quot; onmouseout=&quot;moutButton(this);&quot; value=&quot;Save&quot; title=&quot;Save&quot;&gt; is not clickable at point (269, 206). Other element would receive the click: &lt;div class=&quot;mask&quot; id=&quot;wait_mask&quot; style=&quot;height: 305px; width: 940px; display: block;&quot;&gt;...&lt;/div&gt;&#10;  (Session info: chrome=79.0.3945.79)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;CHINNA&apos;, ip: &apos;192.168.0.142&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_102&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10841}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#10;Session ID: 4e90edac86a0689a5613c992ef3b02fd" type="org.openqa.selenium.ElementClickInterceptedException"><![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="button" class="savebutton" id="btnEdit" onclick="addEmpMain(); return false;" onmouseover="moverButton(this);" onmouseout="moutButton(this);" value="Save" title="Save"> is not clickable at point (269, 206). Other element would receive the click: <div class="mask" id="wait_mask" style="height: 305px; width: 940px; display: block;">...</div>
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHINNA', ip: '192.168.0.142', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10841}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4e90edac86a0689a5613c992ef3b02fd
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy10.click(Unknown Source)
+	at com.hrm.qa.pages.PimPage.createNewEmp(PimPage.java:68)
+	at com.hrm.qa.TestCases.PIMpageTest.createnewempTest(PIMpageTest.java:89)
+]]></failure>
+    <system-out><![CDATA[Trying to find Element By : By.name: txtUserName
+Found Element By : By.name: txtUserName
+Trying to find Element By : By.name: txtPassword
+Found Element By : By.name: txtPassword
+Trying to find Element By : By.name: Submit
+Found Element By : By.name: Submit
+Trying to click on: [[ChromeDriver: chrome on XP (4e90edac86a0689a5613c992ef3b02fd)] -> name: Submit]
+Clicked on: [[ChromeDriver: chrome on XP (4e90edac86a0689a5613c992ef3b02fd)] -> name: Submit]
+Trying to find Element By : By.linkText: PIM
+Found Element By : By.linkText: PIM
+Trying to find Element By : By.linkText: Add Employee
+Found Element By : By.linkText: Add Employee
+Trying to click on: [[ChromeDriver: chrome on XP (4e90edac86a0689a5613c992ef3b02fd)] -> link text: Add Employee]
+Clicked on: [[ChromeDriver: chrome on XP (4e90edac86a0689a5613c992ef3b02fd)] -> link text: Add Employee]
+Trying to find Element By : By.name: txtEmpLastName
+Found Element By : By.name: txtEmpLastName
+Trying to find Element By : By.name: txtEmpFirstName
+Found Element By : By.name: txtEmpFirstName
+Trying to find Element By : By.name: txtEmpMiddleName
+Found Element By : By.name: txtEmpMiddleName
+Trying to find Element By : By.name: txtEmpNickName
+Found Element By : By.name: txtEmpNickName
+Trying to find Element By : By.xpath: /html/body/form/div/div[1]/div[2]/div[2]/input[1]
+Found Element By : By.xpath: /html/body/form/div/div[1]/div[2]/div[2]/input[1]
+Trying to click on: [[ChromeDriver: chrome on XP (4e90edac86a0689a5613c992ef3b02fd)] -> xpath: /html/body/form/div/div[1]/div[2]/div[2]/input[1]]
+Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="button" class="savebutton" id="btnEdit" onclick="addEmpMain(); return false;" onmouseover="moverButton(this);" onmouseout="moutButton(this);" value="Save" title="Save"> is not clickable at point (269, 206). Other element would receive the click: <div class="mask" id="wait_mask" style="height: 305px; width: 940px; display: block;">...</div>
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHINNA', ip: '192.168.0.142', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nagendra\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:10841}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4e90edac86a0689a5613c992ef3b02fd
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 78.0.3904.70 (edb9c9f3de0247fd912a77b7f6cae7447f6d3ad5-refs/branch-heads/3904@{#800}) on port 18984
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1576761200.175][WARNING]: This version of ChromeDriver has not been tested with Chrome version 79.
+Dec 19, 2019 6:43:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+</testsuite>
